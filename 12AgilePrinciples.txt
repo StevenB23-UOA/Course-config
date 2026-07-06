@@ -1,0 +1,13 @@
+
+    Customer Satisfaction: The highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+    Welcome Change: Agile processes harness change for the customer's competitive advantage, even late in development.
+    Frequent Delivery: Deliver working software frequently, with a preference for shorter timescales.
+    Collaboration: Business people and developers must work together daily throughout the project.
+    Motivated Individuals: Build projects around motivated individuals, giving them the environment and support they need, and trust them to get the job done.
+    Face-to-Face Conversation: The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+    Working Software: Working software is the primary measure of progress.
+    Sustainable Development: Agile processes promote sustainable development, maintaining a constant pace indefinitely.
+    Technical Excellence: Continuous attention to technical excellence and good design enhances agility.
+    Simplicity: Simplicity—the art of maximizing the amount of work not done—is essential.
+    Self-Organizing Teams: The best architectures, requirements, and designs emerge from self-organizing teams.
+    Reflect and Adjust: At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
